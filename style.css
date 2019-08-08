@@ -1,1 +1,11 @@
-
+body{
+color: blue;
+background-color: bisque;
+text-align: center  
+}
+img{
+    width: 25%;
+  border-block-color: blue;
+  border-image: 2cm;
+  border-block-start-style: double;
+}
